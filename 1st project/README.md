@@ -1,5 +1,4 @@
-1st project
-purpose: simple Contact Editor 
+## 1st project, purpose: simple Contact Editor 
 - made of java 
 - using eclips IDE
 - condition :
